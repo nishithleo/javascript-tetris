@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.techcrump.tetrisgamers"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Tetris Gamers</name>
+
+    <description>
+        Tertris is a simple game of bricks and famous as a classic arcade played and loved by everybody. 
+    </description>
+
+    <author href="https://techcrump.com" email="techcrumpinfo@gmail.com">
+        Techcrump
+    </author>
+
+</widget>
